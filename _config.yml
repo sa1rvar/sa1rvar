@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : " Sarvar / Site Title"
+title                    : " Sarvar's research "
 title_separator          : "-"
 name                     : &name " Sarvar Abdumutolibov"
 description              : &description "Research and publications by Sarvar Abdumutolibov"   # Update this with a general description of your site, this is the default if not overridden by a page
