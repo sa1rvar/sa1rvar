@@ -1,6 +1,12 @@
 ---
 permalink: /
 title: " My Story "
+author_profile: false
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 <div style="background: linear-gradient(135deg, #0C447C, #085041); border-radius: 12px; padding: 2rem 1.5rem 1.5rem; margin-bottom: 2rem; position: relative;">
   <div style="display: flex; align-items: center; gap: 16px;">
     <img src="/images/profile.png" style="width: 80px; height: 80px; border-radius: 50%; border: 3px solid white; object-fit: cover;">
@@ -10,11 +16,6 @@ title: " My Story "
     </div>
   </div>
 </div>
-author_profile: false
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 I'm Sarvar, an independent researcher interested in the economies of countries — how they grow, struggle, and change over time. Currently, my focus is on Uzbekistan's economy: how it has developed, and particularly its trade relationships and economic ties with other countries.
 
