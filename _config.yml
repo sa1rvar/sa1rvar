@@ -23,7 +23,7 @@ repository               : "sa1rvar/sa1rvar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_6743.HEIC"
+  avatar           : "profile github.png"
   name             : "Sarvar Abdumutolibov"
   pronouns         :  
   bio              : "A person with big goals"
