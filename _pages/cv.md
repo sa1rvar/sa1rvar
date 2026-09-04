@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * High School Diploma (expected 2027)
-  * Aqaydin International School, Tashkent, Uzbekistan
+* Aqaydin International School, Tashkent, Uzbekistan
 
 Research Interests
 ======
