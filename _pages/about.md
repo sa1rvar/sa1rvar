@@ -1,6 +1,15 @@
 ---
 permalink: /
 title: " My Story "
+<div style="background: linear-gradient(135deg, #0C447C, #085041); border-radius: 12px; padding: 2rem 1.5rem 1.5rem; margin-bottom: 2rem; position: relative;">
+  <div style="display: flex; align-items: center; gap: 16px;">
+    <img src="/images/profile.png" style="width: 80px; height: 80px; border-radius: 50%; border: 3px solid white; object-fit: cover;">
+    <div>
+      <h2 style="color: white; margin: 0; font-size: 22px;">Sarvar Abdumutolibov</h2>
+      <p style="color: rgba(255,255,255,0.85); margin: 4px 0 0; font-size: 14px;">Independent researcher — economics and trade</p>
+    </div>
+  </div>
+</div>
 author_profile: false
 redirect_from: 
   - /about/
