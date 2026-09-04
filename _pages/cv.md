@@ -11,54 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* High School Diploma (expected 2027)
+  * Aqaydin International School, Tashkent, Uzbekistan
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Economics of Uzbekistan, with a focus on trade and international economic relationships
+* Comparative economic development
+* Post-Soviet and Central Asian economic transitions
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+
+Certifications & Test Scores
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* IELTS: 7.5
+* SAT: 1470
+* CSCA MATH: 90.5
+
+
+Technical Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Python (backend development coursework)
+* Data analysis fundamentals (applied to economic/trade data)
+* Languages: Russian (fluent), English (fluent)
+
+Awards & Activities
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Two-time Bronze Medalist, City Karate Championship
+* Winner, Chess Competition (age 12, summer camp)
+* Boxing (1.5 years) and MMA (6 months) — competitive combat sports training
+* Local Counter-Strike 2 tournament winner
